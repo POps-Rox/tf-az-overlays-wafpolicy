@@ -2,7 +2,7 @@
 # Licensed under the MIT License.
 
 module "mod_waf_policy" {
-  #source  = "azurenoops/overlays-waf-policy/azurerm"
+  #source  = "github.com/POps-Rox/tf-az-overlays-wafpolicy"
   #version = "~> x.x.x"
   source = "../../.."
 
