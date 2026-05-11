@@ -2,7 +2,7 @@
 # Licensed under the MIT License.
 
 module "mod_waf_policy" {
-  #source  = "github.com/POps-Rox/tf-az-overlays-wafpolicy"
+  #source  = "github.com/POps-Rox/terraform-az-overlays-wafpolicy"
   #version = "~> x.x.x"
   source = "../../.."
 
